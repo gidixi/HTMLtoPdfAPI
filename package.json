@@ -1,0 +1,15 @@
+{
+    "name": "html-to-pdf-api",
+    "version": "1.0.0",
+    "description": "API per convertire URL in PDF",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Giuseppe De Solda",
+    "license": "MIT"
+  }
+  
